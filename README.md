@@ -9,7 +9,7 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Dataset
 - 114,000 songs across 114 genres
-- Source: Kaggle — Spotify Tracks Dataset
+- Source: Kaggle - Spotify Tracks Dataset
 - 9 audio features used: danceability, energy, valence, tempo,
   acousticness, instrumentalness, loudness, speechiness, liveness
 
@@ -34,10 +34,10 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Key Visuals
 
-### Radar Charts — Audio Profile per Segment
+### Radar Charts - Audio Profile per Segment
 ![Radar Charts](images/radar_charts.png)
 
-### PCA — Cluster Separation
+### PCA - Cluster Separation
 ![PCA](images/pca_clusters.png)
 
 ### Segment Distribution
@@ -49,9 +49,9 @@ identified purely through a liveness score of 0.751, later
 validated by Brazilian live music genres dominating the cluster.
 
 ## Business Recommendations
-- Cluster 4 (Feel Good Dance & Urban) — prime target for ad-supported tier
-- Cluster 2 (Classical & Ambient) — target with HiFi lossless audio upsell
-- Cluster 3 (Live & World Music) — target with concert ticket promotions
-- Cluster 1 (Electronic Instrumentals) — target with Focus/Study playlists
-- Cluster 0 (Mellow Acoustic & Romance) — target with late night/mood mixes
-- Cluster 5 (High Energy Rock & Metal) — target with gym/workout playlists
+- Cluster 4 (Feel Good Dance & Urban) - prime target for ad-supported tier
+- Cluster 2 (Classical & Ambient) - target with HiFi lossless audio upsell
+- Cluster 3 (Live & World Music) - target with concert ticket promotions
+- Cluster 1 (Electronic Instrumentals) - target with Focus/Study playlists
+- Cluster 0 (Mellow Acoustic & Romance) - target with late night/mood mixes
+- Cluster 5 (High Energy Rock & Metal) - target with gym/workout playlists
