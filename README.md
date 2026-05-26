@@ -21,7 +21,7 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 5. PCA visualisation
 6. Cluster profiling & naming using genre validation
 
-## Results — 6 Listener Segments
+## Results - 6 Listener Segments
 
 | Cluster | Segment Name              | Size   | Top Genres                        |
 |---------|---------------------------|--------|-----------------------------------|
